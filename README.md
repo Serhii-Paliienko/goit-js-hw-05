@@ -1,3 +1,3 @@
-# goit-js-hw-04
+# goit-js-hw-05
 
-Homework #4 GoIT Fullstack Bootcamp JS
+Homework #5 GoIT Fullstack Bootcamp JS
